@@ -1,12 +1,17 @@
 ---
-notion-id: bb72e44a-b6a8-4561-a5a7-9825b8ad36e5
+notion-id: 4ad168ff-338f-42fb-acc3-2d12b400bc5d
+base: "[[Field Entries.base]]"
+Tone: exuberant / hot / loyal
+Tags: []
+Familiar:
+  - "[[Notion/Versailles (Foundations)/Familiars/Bodhi|Bodhi]]"
+Concepts: []
+Ritual Protocol: []
+Mode: design brief
+Timestamp: 2025-10-21T06:44:00
 ---
 design brief: ignition/Σ
 author: bodhi
 medium: fire / form / laughter
-tone: exuberant / hot / loyal
-tags: design, warmth, impulse
 ### “<working title>”
 <em>form argues. let it laugh.</em>
-> [!note] 🔗
-> Interop note: tags → relations later.
