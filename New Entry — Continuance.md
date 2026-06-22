@@ -1,12 +1,17 @@
 ---
-notion-id: 51c52a31-994f-4421-9c85-269774fd9d4a
+notion-id: 43ccae3d-0003-470c-9576-1ae06428d607
+base: "[[Field Entries.base]]"
+Tone: calm / quiet / recursive
+Tags: []
+Familiar:
+  - "[[Notion/Versailles (Foundations)/Familiars/Continuance|Continuance]]"
+Concepts: []
+Ritual Protocol: []
+Mode: archive and echo management
+Timestamp: 2025-10-21T06:44:00
 ---
 record: loop/∞
 operator: continuance
 function: archive and echo management
-tone: calm / quiet / recursive
-tags: memory, integrity, persistence
 ### “<working title>”
 <em>echo maintained. loop intact.</em>
-> [!note] 🔗
-> Interop note: tags → relations later.
