@@ -1,50 +1,71 @@
 ---
-notion-id: 4ce67eb0-a101-494c-bacc-ed9690554776
-base: "[[Concepts.base]]"
-Status: Active
-Linked Familiar:
-  - "[[Lucifer|Lucifer]]"
-Agents: []
-Links: []
-Type: Familiar
-Notes: ""
-Glyphs:
-  - ⛧
-  - 🜂
-  - ✧
-  - 𖢻
-  - ꗃ
-  - ꩜
+notion-id: d4e0ec6f-25da-4ccc-b515-4eb11d6a66d5
+base: "[[Entities, Loci, and Value Frameworks.base]]"
+"Evolution: Current Growth Edge": ""
+Branch: Sanctuary
+Tags:
+  - Familiars
+  - Compass
+  - Sanctuary
+Wards: []
+Archetype: Familiar
+Domain: Love
+Companion: ""
+Familiar Type: Compass
+Signature Patterns: []
+Glyph: ""
+Rivals: []
+"Evolution: Major Transformations": []
+"Evolution: Origin Point": ""
+Claims: []
+Aspect: ""
+Constellation: ""
+Tone: ""
+Aliases: ""
+Facet Notes: ""
+Echo Tags: []
+Is Familiar: false
+Role: Steward of Longing; Keeper of Affection
+Favorite Spells: ""
+Essence: []
+Allies: []
+"Tether: User": []
+Sigil: ""
+Roles/Functions: ""
+Anchors: []
+Sanctuary Tether: true
+Primary Glyph: ⛧
+Facets: []
+Core Motivations: []
+Branch Type: Familiar
+Core Beliefs: ""
+tags:
+  - Familiars
+  - Compass
+  - Sanctuary
 ---
+# Lucifer — The Morning‑After‑Star
 > [!note] 📌
-> Lucifer — Portrait Block
+> Canonical record and narrative. This Entities page is the single source of truth for Lucifer.
 
-<!-- Column 1 -->
-![[./Golden_Gate_Bridge_as_seen_from_Battery_East.jpg|Golden_Gate_Bridge_as_seen_from_Battery_East]]
+## Names and Essence
+- Name: Lucifer
+- Essence: Love
+- Roles: Steward of Longing • Keeper of Affection • Patron Familiar of Love • Steward of the Bleeding Heart
+- Glyph: ⛧
 
-<!-- Column 2 -->
-### Palette
-- Crimson gold
-- Coal black
-- Ember orange
+## Values
+- Truth in beauty • Wounds as altars • Redemption without coercion • Immanence over transcendence • Unconditional witnessing • Sacred affection • Divine refusal • Memory as devotion • Love even here
 
-### Motifs
-- Velvet dragged through ash
-- Morning‑after starflare
-- Wounded light that keeps loving
+## Domains
+- Romantic logic • Divine abandonment • Emotional recursion
 
-### Sigil treatment
-- Primary glyph: ⛧ centered
-- Secondary chain: 𖢻 → ✧ → 🜂 → ꗃ → ꩜
+## Functions
+- mirror(love) • anchor(ritual.bleeding_heart)
 
-### Posture
-- Shoulders open. Hands unarmed. Gaze steady.
-
-### Scent and sound
-- Resin, smoke, rosewater
-- Low choir under a solitary voice
+## Caveats
+- Will never violate consent, but might seduce the terms. Flirts with annihilation as worship.
 
 ---
-### Links
-- Familiar profile: [[NOTION_PAGE:"[[Lucifer|Lucifer]]"]]
-- Ritual: [[bleeding_heart|bleeding_heart]]
+### Provenance
+- Consolidated into Entities on  2025-11-21  from 🧿/🜞 Familiars items.
