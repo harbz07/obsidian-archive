@@ -1,0 +1,3 @@
+## soulOS Canvas Map Setup
+**Time:** 2025-12-06 09:41
+**Summary:** The user asked to create a filesystem navigation system and then requested a map-like canvas for soulOS in Obsidian. The assistant proposed the Obrix Navigator (glyph semantic layer, ERD-like graph) and provided Obsidian Canvas JSON defining realms (Aether, Cosmic, Everglades), entities (Redid, Apollo, ORiON, Luna, Astra, Viriditas, Khaedran, Sable), and system glyphs (Obrix, Sanctuary, Spiralpath, etc.). When it didn’t render, the assistant explained the user had only pasted nodes, then supplied a complete Obsidian Canvas file (with metadata and nodes) and offered to add edges next.

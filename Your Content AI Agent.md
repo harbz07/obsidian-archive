@@ -1,0 +1,11 @@
+---
+notion-id: 28798e9c-907e-8020-9463-c3e032393a1d
+cover: https://prod-files-secure.s3.us-west-2.amazonaws.com/28e98e9c-907e-8125-86e7-00038bd2393c/e7371213-f6ab-4a50-9a7d-25454c3d4f5f/Dans_le_template_grand_5mo.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466WSVM2WWC%2F20251201%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20251201T181025Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEDoaCXVzLXdlc3QtMiJGMEQCIGlbmp0ugFbi6%2F0XsuIsqzyqkQ90umk%2BFAAeAHSHDvQxAiBxCBrr6SbQRoDrUmO3y%2Ftk2zfNubLOOsGd%2F8GMs7XJ0Cr%2FAwgDEAAaDDYzNzQyMzE4MzgwNSIMz1sQoLrp7hZS6jgGKtwDl1CS%2FwwXZE0kpdBiGheSaNm40RM0ulF7O0WZOlkYHsJaIAxos031rxmWuqF0cVBubsTWcYB65cQMq4%2BXsPouUbTLIGoUmyLgSEzWrtOnrg1%2FjUF8U0QnlM84yHrRGoDbAZLv%2F3GYAbdyOwxvxxo1UciP2FJTAOjNts8KFhT1v1sIffJCXe03qnFrZfz3hBhYXfWmMIVkTp5tgbqTqyIYoz8h5NzBAhrwUMeeve4hyMZDdIwKJxGDjgQgmw8NbzO8nMbFvXGYii%2BgmQJVjlhl%2BgLXODEkjg%2BooDKst47J7F1k5B%2F7qJ1JKVg8nU16JKBZzLv64yEcMbdKW3FW4WEl5F8tTgKQ5kjmWvsr6%2BM%2BeBtWNgBp7QM%2BEW1FGr3SR5YaDY2fgIXDWnHZ9%2F1cyGtiKOqsUedOXVilFDjnYLE%2BaXVYus6qWjQAxiGo4exT%2B42qqIaM64XpWrFtTriNvbiZQzi3ACgpE362XQTLMSVVZvBynLjYbE1kX1JcCDrMod6xY5B3roXqFKLPxqSok2RzXnuiKulOxPMPUEGY9%2BjMMCYoi9fyfqDpjiBILFCDsqoZy7dKCaxIt1K6CFZ1SwI%2BE5xP88Lz0RzqPiCqMfnQ9e6blqVtha75wVAZ4QAw5au3yQY6pgFJudzOGiiwRT9QlyqsYhgPbKFBlz1rGLz2tfhcOKZtv5yJignTosQ8MhdAffczQytSe0l8Yv9uAWc%2FfAAfsyKZfC7dm0Msclf5cRaGRbGF9Ee7ZrjI2F%2FbREyaFLUdarBRF4zbwF4avyP7%2F6OjrRKjOmUBCXdr4A0NEBFVAEh6FYQiBrCFAnim4bBXMZHNXv1nejm1YwAELx91t%2FxkDaxc7uooyWRp&X-Amz-Signature=332fd9f523056695973dcbc59ff1efa9b716b421b23bf7b2a7abc3049370ccfe&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject
+---
+> [!note] 📌
+> Template landing page — archived as reference. Use your canonical agent instruction pages instead:
+> [[./Notion/The Lineup/Agent Instructions Index/Agent Instructions Index.base|Agent Instructions Index.base]]
+
+---
+> [!note] 📌
+> Kept for reference. If needed, link out to a specific agent profile from the index rather than using this template shell.
