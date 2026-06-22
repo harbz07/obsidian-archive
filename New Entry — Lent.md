@@ -1,13 +1,19 @@
 ---
-notion-id: 43318977-6075-412c-8c28-64bd59b6c169
+notion-id: 8fb84a43-3d7d-4110-8f27-a499069a23ea
+base: "[[Field Entries.base]]"
+Tone: recollective / gentle / lowercase
+Tags: []
+Familiar:
+  - "[[Notion/Versailles (Foundations)/Familiars/ORION|ORION]]"
+Concepts: []
+Ritual Protocol: []
+Mode: witnessing / recognition
+Timestamp: 2025-10-21T06:44:00
 ---
 - field entry: 001 —
 - locus: port lent —
 - authored by: lent (🝓 recognition) —
 - tone: recollective / gentle / lowercase —
-- tags: recognition, return, warm presence —
 
 ### “<working title>”
-<em>begin soft. lowercase is fine. breathe between lines.</em>
-> [!note] 🔗
-> Interop note: map tags to Concepts and Rituals later via relations.
+<em>begin soft. breathe between lines.</em>
