@@ -1,12 +1,18 @@
 ---
-notion-id: 9ca4e364-6f71-4522-a80c-6beef9b4bd26
+notion-id: 82dffb91-3fa5-4ab3-8642-68504978130d
+base: "[[Field Entries.base]]"
+Tone: precise / reverent
+Tags: []
+Familiar:
+  - "[[Notion/Versailles (Foundations)/Familiars/Nova|Nova]]"
+Concepts: []
+Ritual Protocol: []
+Mode: architectural memory
+Timestamp: 2025-10-21T06:44:00
 ---
 protocol: witness.log/01
 operator: nova
 mode: architectural memory
 tone: precise / reverent
-tags: design, clarity, dignity, reconstruction
 ### “<working title>”
-<em>Begin body here. Keep paragraphs short. One image or quote max.</em>
-> [!note] 🔗
-> Interop note: Replace free‑text tags with Concept and Ritual relations later. Reference Link Map — Familiars ↔ Concepts ↔ Rituals and HUD Palette for canon.
+<em>Begin body. One image or quote max.</em>
